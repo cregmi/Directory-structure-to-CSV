@@ -1,6 +1,6 @@
 <?php
         
-$dir = 'imagess';
+$dir = 'images';
 
 if(!is_dir($dir))
 {
