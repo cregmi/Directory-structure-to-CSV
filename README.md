@@ -7,7 +7,7 @@ Script traverse the directory sturcture, and generate CSV file with column heade
 Example,
 
 Directory sructure,
-`
+<pre>
 images
       directory01
           image01.jpg
@@ -17,11 +17,10 @@ images
           image11.jpg
           image12.jpg
           image13.jpg
-`          
+</pre?          
 imagelist.csv,
-`
-| Image-directory |           Image-list                 |
-__________________________________________________________
-| directory01     | image01.jpg,image02.jpg,image03.jpg, |
-| directory02     | image11.jpg,image12.jpg,image13.jpg, |
-` 
+
+Image-directory|Image-list   
+--------------|-------------
+directory01|image01.jpg,image02.jpg,image03.jpg,
+directory02|image11.jpg,image12.jpg,image13.jpg,
