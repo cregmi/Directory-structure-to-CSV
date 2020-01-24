@@ -23,7 +23,7 @@ images
 other directories / files...
 </pre> 
 
-When the PHP script is run for above given example, imagelist.csv with two columns and two rows as is generated and downloaded.
+When the PHP script is run for above given example, imagelist.csv with two columns and two rows, as shown below, is generated and downloaded.
 
 Image-directory | Image-list
 --------------- | -------------------------------
