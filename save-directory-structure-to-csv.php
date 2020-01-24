@@ -8,7 +8,7 @@ if(!is_dir($dir))
     exit; 
 }
 
-
+$imgfile = NULL;
 // open the directory handle
 if ($handle01 = opendir($dir)) {
 
